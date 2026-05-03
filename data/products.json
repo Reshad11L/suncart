@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "UV Shield Polarized Sunglasses",
+    "brand": "SunShade Pro",
+    "price": 29.99,
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Premium polarized lenses that block 100% of UVA and UVB rays. Lightweight titanium frame with anti-scratch coating. Perfect for beach days, hiking, and outdoor adventures. Comes with a protective hard case and cleaning cloth.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&q=80",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Breezy Linen Beach Shirt",
+    "brand": "CoastalWear",
+    "price": 44.99,
+    "rating": 4.6,
+    "stock": 22,
+    "description": "Made from 100% breathable linen, this loose-fit shirt is your ultimate summer companion. The open weave fabric keeps you cool even on the hottest days. Available in 6 tropical colors. Machine washable and wrinkle-resistant.",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&q=80",
+    "category": "Clothing"
+  },
+  {
+    "id": 3,
+    "name": "SPF 50+ Mineral Sunscreen",
+    "brand": "SkinGuard",
+    "price": 18.99,
+    "rating": 4.9,
+    "stock": 40,
+    "description": "Reef-safe, water-resistant mineral sunscreen with zinc oxide. Provides broad-spectrum SPF 50+ protection for up to 80 minutes in water. Non-greasy formula that blends seamlessly. Dermatologist tested and hypoallergenic.",
+    "image": "https://images.unsplash.com/photo-1556228578-dd539282b964?w=600&q=80",
+    "category": "Skincare"
+  },
+  {
+    "id": 4,
+    "name": "XL Tropical Beach Towel",
+    "brand": "BeachBliss",
+    "price": 34.99,
+    "rating": 4.7,
+    "stock": 18,
+    "description": "Oversized 80\"x40\" quick-dry microfiber beach towel with vibrant tropical print. Ultra-absorbent yet lightweight, it folds down to fit in any bag. Sand-resistant technology keeps the grit off. Machine washable.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+    "category": "Beach Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Foldable Wide-Brim Sun Hat",
+    "brand": "ShadeStyle",
+    "price": 22.99,
+    "rating": 4.5,
+    "stock": 30,
+    "description": "Elegant foldable sun hat with a 4-inch wide brim for maximum sun protection. UPF 50+ rated straw weave keeps you cool. Adjustable inner band fits all head sizes. Ideal for beach, garden, or city strolls.",
+    "image": "https://images.unsplash.com/photo-1572307480813-ceb0e59d8325?w=600&q=80",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "name": "Aloe Vera After-Sun Gel",
+    "brand": "SkinGuard",
+    "price": 12.99,
+    "rating": 4.8,
+    "stock": 50,
+    "description": "Pure 99% aloe vera gel with added vitamin E and cucumber extract. Instantly soothes sunburned skin, reduces redness, and provides deep hydration. Cooling formula with a refreshing light scent. Suitable for all skin types.",
+    "image": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=600&q=80",
+    "category": "Skincare"
+  },
+  {
+    "id": 7,
+    "name": "Inflatable Flamingo Pool Float",
+    "brand": "BeachBliss",
+    "price": 26.99,
+    "rating": 4.4,
+    "stock": 12,
+    "description": "Giant 6-foot inflatable flamingo pool float made from premium thick vinyl. Supports up to 200 lbs. Quick inflation with the included pump. Vibrant pink color won't fade in sunlight. Perfect for pools, lakes, and calm waters.",
+    "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&q=80",
+    "category": "Beach Accessories"
+  },
+  {
+    "id": 8,
+    "name": "Floral Maxi Summer Dress",
+    "brand": "CoastalWear",
+    "price": 54.99,
+    "rating": 4.7,
+    "stock": 16,
+    "description": "Flowy chiffon maxi dress with a stunning tropical floral print. Features adjustable spaghetti straps, a flirty slit, and a flattering A-line silhouette. Lightweight and breathable—perfect for beach parties or evening dinners.",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&q=80",
+    "category": "Clothing"
+  }
+]
